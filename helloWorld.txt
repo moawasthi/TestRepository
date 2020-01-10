@@ -1,1 +1,2 @@
 This is a a sample created to demo github source control explorer.
+This is an update made on the server by some other programmer.
