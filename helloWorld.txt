@@ -7,7 +7,7 @@ function()
 
 function2 ()
 {
-   this function is modified at local.
+   New Change
 }
 
 
